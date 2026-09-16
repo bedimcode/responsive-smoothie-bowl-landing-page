@@ -1,0 +1,21 @@
+========== HEADER & NAV ==========
+🔹.nav__logo
+Smoothie
+
+🔹 .nav__link
+Home - About Us - Flavors - Special - Contact
+
+
+========== HOME SECTION ==========
+🔹.home__name
+Mango - Blueberry - Strawberry
+
+🔹.home__description
+A creamy and refreshing ice cream, made to turn every spoonful 
+into a moment of sweetness, freshness and pleasure.
+
+🔹.home__price
+$12
+
+🔹.home__button
+Order Now
